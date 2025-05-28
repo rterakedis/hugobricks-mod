@@ -1,0 +1,12 @@
+name = "hugobricks"
+license = "MIT"
+licenselink = "https://github.com/rterakedis/hugobricks-mod/blob/main/LICENSE.md"
+description = "Hugobricks theme modified to work as a Hugo Module"
+homepage = "https://github.com/rterakedis/hugobricks-mod/"
+tags = ["blog", "responsive", "modular", "hugo", "theme"]
+features = ["blog", "cta", "responsive", "modular"]
+min_version = "0.143.0"
+
+[author]
+  {name = "Robert Terakedis", homepage = "https://github.com/rterakedis/"}
+  {name = "Joost van der Schee", homepage = "https://github.com/jhvanderschee/"}
